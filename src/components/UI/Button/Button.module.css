@@ -1,0 +1,11 @@
+.btn {
+    border: 1px solid red;
+    padding: 1rem 2rem;
+    border-radius: .4rem;
+    background: #3563E9;
+    color: #fff;
+}
+
+.type2 {
+    background: #54A6FF;
+}
